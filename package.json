@@ -1,5 +1,5 @@
 {
-  "name": "racer-highway",
+  "name": "racer-highway-ilkkah",
   "description": "Websocket and browserchannel transport for Racer",
   "version": "10.0.1",
   "main": "./lib/server",
